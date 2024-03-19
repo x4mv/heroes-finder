@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 #imagenes muy pesadas 
-src/assets/heroes
+src/assets/heroes/
