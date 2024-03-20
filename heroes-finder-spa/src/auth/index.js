@@ -1,1 +1,1 @@
-export * './pages'
+export * from './pages'
