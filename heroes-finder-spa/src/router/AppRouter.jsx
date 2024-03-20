@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom"
 import { MarvelPage, DcPage } from '../heroes'
-import { LoginPage } from "../auth/pages/LoginPage"
+import { LoginPage } from '../auth'
 import { Navbar } from "../UI"
 
 
